@@ -27,6 +27,7 @@ networkx==2.5
 numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.2.1
+os-sys
 pandas==1.1.5
 Pillow==8.1.2
 protobuf==3.12.2
@@ -45,7 +46,6 @@ seaborn==0.11.1
 setuptools
 six==1.15.0
 sklearn==0.0
-sys
 tensorboard-plugin-wit==1.7.0
 termcolor==1.1.0
 threadpoolctl==2.1.0
