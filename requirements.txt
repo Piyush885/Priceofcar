@@ -42,11 +42,14 @@ rsa==4.6
 scikit-learn==0.24.1
 scipy==1.5.4
 seaborn==0.11.1
+setuptools
 six==1.15.0
 sklearn==0.0
+sys
 tensorboard-plugin-wit==1.7.0
 termcolor==1.1.0
 threadpoolctl==2.1.0
+tokenize
 tqdm==4.59.0
 urllib3==1.26.4
 Werkzeug==1.0.1
